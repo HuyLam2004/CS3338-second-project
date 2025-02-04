@@ -1,0 +1,51 @@
+commit 5d37d2d62b25b0dd577f4189445777a0e305c45e
+Merge: 47b0de0 5f4f4e2
+Author: Daruru1 <darururu2004@gmail.com>
+Date:   Tue Feb 4 14:48:55 2025 -0800
+
+    Resolved merge conflict in index.html
+
+commit 5f4f4e21933064d96a1a0c1564b0e0d2338adc36
+Author: Daruru1 <darururu2004@gmail.com>
+Date:   Tue Feb 4 14:47:43 2025 -0800
+
+    Added favorite movie to index.html
+
+commit 47b0de0104cbf4d6ca1f75476159fe227fd13b11
+Author: Daruru1 <darururu2004@gmail.com>
+Date:   Tue Feb 4 14:47:11 2025 -0800
+
+    Added favorite food to index.html
+
+commit 096269d256a09c174e538f4647e3192ffa42d709
+Author: Daruru1 <darururu2004@gmail.com>
+Date:   Tue Feb 4 14:45:32 2025 -0800
+
+    Added README.md
+
+commit 69dd24fb77b290ed8a988d2420b6599cf8ed81c1
+Author: Daruru1 <darururu2004@gmail.com>
+Date:   Tue Feb 4 14:41:02 2025 -0800
+
+    Added README.md
+
+commit d14ce8386194d454fb620c3c37687b3082a27e32
+Merge: 1d2bfc0 e165ce5
+Author: HuyLam2004 <huygialam04@gmail.com>
+Date:   Tue Feb 4 14:39:21 2025 -0800
+
+    Merge pull request #1 from HuyLam2004/info-fill
+    
+    Filled in the blanks of index.html
+
+commit e165ce51d3c2d825284a8bd60916f660a59aa5c6
+Author: Daruru1 <darururu2004@gmail.com>
+Date:   Tue Feb 4 14:36:07 2025 -0800
+
+    Filled in the blanks of index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
