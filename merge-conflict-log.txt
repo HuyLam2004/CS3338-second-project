@@ -11,38 +11,38 @@ Date:   Tue Feb 4 15:13:42 2025 -0800
     Updated right author of git_log.txt
 
 commit 1cd694005c5623935afccef7630805c858339dea
-Author: Daruru1 <darururu2004@gmail.com>
+Author: HuyLam2004 <huygialam04@gmail.com>
 Date:   Tue Feb 4 14:50:19 2025 -0800
 
     Added git log and repo location
 
 commit 5d37d2d62b25b0dd577f4189445777a0e305c45e
 Merge: 47b0de0 5f4f4e2
-Author: Daruru1 <darururu2004@gmail.com>
+Author: HuyLam2004 <huygialam04@gmail.com>
 Date:   Tue Feb 4 14:48:55 2025 -0800
 
     Resolved merge conflict in index.html
 
 commit 5f4f4e21933064d96a1a0c1564b0e0d2338adc36
-Author: Daruru1 <darururu2004@gmail.com>
+Author: HuyLam2004 <huygialam04@gmail.com>
 Date:   Tue Feb 4 14:47:43 2025 -0800
 
     Added favorite movie to index.html
 
 commit 47b0de0104cbf4d6ca1f75476159fe227fd13b11
-Author: Daruru1 <darururu2004@gmail.com>
+Author: HuyLam2004 <huygialam04@gmail.com>
 Date:   Tue Feb 4 14:47:11 2025 -0800
 
     Added favorite food to index.html
 
 commit 096269d256a09c174e538f4647e3192ffa42d709
-Author: Daruru1 <darururu2004@gmail.com>
+Author: HuyLam2004 <huygialam04@gmail.com>
 Date:   Tue Feb 4 14:45:32 2025 -0800
 
     Added README.md
 
 commit 69dd24fb77b290ed8a988d2420b6599cf8ed81c1
-Author: Daruru1 <darururu2004@gmail.com>
+Author: HuyLam2004 <huygialam04@gmail.com>
 Date:   Tue Feb 4 14:41:02 2025 -0800
 
     Added README.md
@@ -57,7 +57,7 @@ Date:   Tue Feb 4 14:39:21 2025 -0800
     Filled in the blanks of index.html
 
 commit e165ce51d3c2d825284a8bd60916f660a59aa5c6
-Author: Daruru1 <darururu2004@gmail.com>
+Author: HuyLam2004 <huygialam04@gmail.com>
 Date:   Tue Feb 4 14:36:07 2025 -0800
 
     Filled in the blanks of index.html
